@@ -1,7 +1,6 @@
 ##READ ME
 ###SENSOR_VIRBRATING
 
-**Video**
-https://vimeo.com/186316043
+Video https://vimeo.com/186316043
 
-I used virbrating sensor to trigger the light on. 
+I used virbrating sensor to trigger the light on.
