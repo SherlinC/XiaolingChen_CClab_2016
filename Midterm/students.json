@@ -1,0 +1,221 @@
+[
+  {
+    "id": 1,
+    "name": "Farewell My Concubine ",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2NDI4MTM5OF5BMl5BanBnXkFtZTYwODU0ODU5._V1._CR18,0,254,401_.jpg",
+    "project": {
+      "title": " Kaige Chen",
+      "thesis-category": "1993",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzg2NDI4MTM5OF5BMl5BanBnXkFtZTYwODU0ODU5._V1._CR18,0,254,401_.jpg",
+      "blurb": "Farewell My Concubine",
+      "description": "The story of two men, who met as apprentices in the Peking Opera, and stayed friends for over 50 years. 'Farewell, My Concubine' is a movie with two parallel, intertwined stories. It is the story of two performers in the Beijing Opera, stage brothers, and the woman who comes between them. At the same time, it attempts to do no less than squeeze the entire political history of China in the twentieth century into a three-hour time-frame."
+      
+    }
+  },
+  {
+    "id": 2,
+    "name": "Happy Together",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4ODY4MjY2MF5BMl5BanBnXkFtZTcwNTE0MDMzNA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg",
+    "project": {
+      "title": "Kar-Wai Wong",
+      "thesis-category": "1997",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc4ODY4MjY2MF5BMl5BanBnXkFtZTcwNTE0MDMzNA@@._V1_SY1000_CR0,0,703,1000_AL_.jpg",
+      "blurb": "Happy Together",
+      "description": "Yiu-Fai and Po-Wing arrive in Argentina from Hong Kong and take to the road for a holiday. Something is wrong and their relationship goes adrift. A disillusioned Yiu-Fai starts working at a tango bar to save up for his trip home. When a beaten and bruised Po-Wing reappears, Yiu-Fai is empathetic but is unable to enter a more intimate relationship. After all, Po-Wing is not ready to settle down. Yiu-Fai now works in a Chinese restaurant and meets the youthful Chang from Taiwan. Yiu-Fai's life takes on a new spin, while Po-Wing's life shatters continually in contrast."
+      
+    }
+  },
+  {
+    "id": 3,
+    "name": "Days of Being Wild",
+    "profile-pic": "https://resizing.flixster.com/gbm-7z2Xu8iYd-voqIvngu3mae4=/206x305/v1.bTsxMTIxMTA5NDtqOzE3MTg0OzEyMDA7MTIwNjsxNjA4",
+    "project": {
+      "title": " Kar-Wai Wong",
+      "thesis-category": "1990",
+      "image": "https://resizing.flixster.com/gbm-7z2Xu8iYd-voqIvngu3mae4=/206x305/v1.bTsxMTIxMTA5NDtqOzE3MTg0OzEyMDA7MTIwNjsxNjA4",
+      "blurb": "Days of Being Wild",
+      "description": "Set in 1960, the film centres on the young, boyishly handsome Yuddy, who learns from the drunken ex-prostitute who raised him that she is not his real mother. Hoping to hold onto him, she refuses to divulge the name of his real birth mother. The revelation shakes Yuddy to his very core, unleashing a cascade of conflicting emotions. Two women have the bad luck to fall for Yuddy. One is a quiet lass named Su Lizhen who works at a sports arena, while the other is a glitzy showgirl named Mimi. Perhaps due to his unresolved Oedipal issues, he passively lets the two compete for him, unable or unwilling to make a choice. As Lizhen slowly confides her frustration to a cop named Tide, he falls for her. The same is true for Yuddy's friend Zeb, who falls for Mimi. Later, Yuddy learns of his birth mother's whereabouts and heads out to the Philippines."
+    }
+  },
+  {
+    "id": 4,
+    "name": "A Chinese Ghost Story",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MDk0Mzk5MF5BMl5BanBnXkFtZTcwMDg2NDE2MQ@@._V1_.jpg",
+    "project": {
+      "title": "Siu-Tung Ching",
+      "thesis-category": "1987",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg4MDk0Mzk5MF5BMl5BanBnXkFtZTcwMDg2NDE2MQ@@._V1_.jpg",
+      "blurb": "A Chinese Ghost Story",
+      "description": "Ning Tsai-Shen, a humble tax collector, arrives in a small town to carry out his work. Unsurprisingly, no-one is willing to give him shelter for the night, so he ends up spending the night in the haunted Lan Ro temple. There, he meets Taoist Swordsman Yen Che-Hsia, who warns him to stay out of trouble, and the beautiful Nieh Hsiao-Tsing, with whom he falls in love. Unfortunately, Hsiao-Tsing is a ghost, bound for all eternity by a hideous tree spirit with an incredibly long tongue that wraps itself round its victims and sucks out their life essence (or 'yang element')..."
+    }
+  },
+  {
+    "id": 5,
+    "name": "A Better Tomorrow",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NzI4NjU1Nl5BMl5BanBnXkFtZTcwMDk2NTcyMQ@@._V1_.jpg",
+    "project": {
+      "title": "John Woo",
+      "thesis-category": "1986",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2NzI4NjU1Nl5BMl5BanBnXkFtZTcwMDk2NTcyMQ@@._V1_.jpg",
+      "blurb": "A Better Tomorrow",
+      "description": "This story is the tale of two brothers: one a successful counterfeiter and the younger a fledgling graduate of the HK police academy. The plot revolves around the split when the younger brother learns the other is a criminal and the efforts of the criminal brother to reform. Along the way are plenty of heists, double-crosses, and shoot outs."
+    }
+  },
+  {
+    "id": 6,
+    "name": "Ashes of Time",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzMxMjI0MV5BMl5BanBnXkFtZTcwNzIwNzM5MQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+    "project": {
+      "title": "Kar-Wai Wong",
+      "thesis-category": "1994",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc0NzMxMjI0MV5BMl5BanBnXkFtZTcwNzIwNzM5MQ@@._V1_SY1000_CR0,0,675,1000_AL_.jpg",
+      "blurb": "Ashes of Time",
+      "description": "Ou-yang Feng lives in the middle of a desert, where he acts as a middle man to various swordsmen in ancient China. One of those swordsmen is Huang Yao-shi, who has found some magic wine that causes one to forget the past. At another time, Huang met Mu-rong Yin and under the influence of drink, promised to marry Mu-rong's sister Mu-rong Yang. Huang jilts her, and Mu-rong Yin hires Ou-yang to kill Huang. But then Mu-rong Yang hires Ou-yang to protect Huang. This is awkward, because Mu-rong Yang and Mu-rong Yin are in reality the same person. Other unrelated plot lines careen about. Among them is Ou-yang's continuing efforts to destroy a band of horse thieves. Oy-yang recruits another swordsman, a man who is going blind and wants to get home to see his wife before his sight goes completely. The swordsman is killed. Ou-yang then meets another swordsman who doesn't like wearing shoes. Oy-yang sends this man after the horse thieves, with better results. We then find out what a man must give..."
+  }
+  },
+  {
+    "id": 7,
+    "name": "Yee do hung gaan",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0MTU4MzcwOV5BMl5BanBnXkFtZTcwNDkyMzQyMQ@@._V1_.jpg",
+    "project": {
+      "title": "Chi-Leung Law ",
+      "thesis-category": "2002",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0MTU4MzcwOV5BMl5BanBnXkFtZTcwNDkyMzQyMQ@@._V1_.jpg",
+      "blurb": "Yee do hung gaan",
+      "description":"This is the story of Yan, a young woman haunted by fleeting images of what she believes to be dead people. Told that it is all in her mind by her psychologist Jim, Yan still cannot find any other explanations for her visions. Soon, her suspicions are confirmed when Jim begins seeing the same things she does and the two begin to unravel a mystery that leads to a forgotten past."
+    }
+  },
+  {
+    "id": 8,
+    "name": "He's a Woman, She's a Man",
+    "profile-pic": "http://www.gstatic.com/tv/thumb/dvdboxart/62832/p62832_d_v8_aa.jpg",
+    "project": {
+      "title": "Peter Ho-Sun Chan",
+      "thesis-category": "1994",
+      "image": "http://www.gstatic.com/tv/thumb/dvdboxart/62832/p62832_d_v8_aa.jpg",
+      "blurb": "He's a Woman, She's a Man",
+      "description": "A typical everyday HK movie fan Wing idolizes the beautiful female singer Rose and her producer Sam as the fairy tale couple. By chance she posed as an amateur male singer and moves in with 'his' new producer Sam. The no-nonsense Wing develops a great friendship with Sam, but screws up Sam's love life with Rose."
+    }
+  },
+  {
+    "id": 9,
+    "name": "The Bride with White Hair",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NzE3NDg4M15BMl5BanBnXkFtZTcwMzc4NjUyMQ@@._V1_.jpg",
+    "project": {
+      "title": "Ronny Yu",
+      "thesis-category": "1993",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1NzE3NDg4M15BMl5BanBnXkFtZTcwMzc4NjUyMQ@@._V1_.jpg",
+      "blurb": "The Bride with White Hair",
+      "description": "The sensitive swordsman Cho Yi-Hang is tired of his life. He is the unwilling successor to the Wu-Tang clan throne and the unsure commander of the clan's forces in a war against foreign tribes and an evil cult. One day, he meets the beautiful Lien, a killer for the evil cult who is equally unsatisfied with her situation, but their love angers both the Wu-Tang clan and the evil cult."
+    }
+  },
+  {
+    "id": 10,
+    "name": "Once a Thief",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxOTQyNzQ1MF5BMl5BanBnXkFtZTYwNDA1MDI5._V1_.jpg",
+    "project": {
+      "title": "John Woo",
+      "thesis-category": "1991",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxOTQyNzQ1MF5BMl5BanBnXkFtZTYwNDA1MDI5._V1_.jpg",
+      "blurb": "Once a Thief",
+      "description": "Once a Thief is an action/comedy/romance movie involving the plight of three master thieves (in the mode of Pink Panther). All three were raised by the same father and in fact were most certainly street orphans. The story begins with a successful art heist followed by a pledge to make this the last crime ever for the trio. The plot revolves around the theft of a mysterious 'cursed' painting and how its obsession affects the family."
+    }
+  },
+  {
+    "id": 11,
+    "name": "Ye ban ge sheng",
+    "profile-pic": "http://www.chinesefilms.cn/mmsource/images/2011/10/28/167d73a309c7469b8631f7a2a1e55f32.jpg",
+    "project": {
+      "title": "Ronny Yu",
+      "thesis-category": "1995",
+      "image": "http://www.chinesefilms.cn/mmsource/images/2011/10/28/167d73a309c7469b8631f7a2a1e55f32.jpg",
+      "blurb": "Ye ban ge sheng",
+      "description": "In 1936 China, a nearly bankrupt drama troupe starts performing in a burned-out theater where the great actor Song Danping was killed. One of the actors, Wei Qing, starts seeing strange apparitions that could revive his troupe and deliver him to the same fate as Song Danping. "
+    }
+  },
+  {
+    "id": 12,
+    "name": "Temptress Moon",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNDg4NDkzMl5BMl5BanBnXkFtZTYwNTg0ODg4._V1_.jpg",
+    "project": {
+      "title": "Kaige Chen",
+      "thesis-category": "1996",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMyNDg4NDkzMl5BMl5BanBnXkFtZTYwNTg0ODg4._V1_.jpg",
+      "blurb": "Temptress Moon",
+      "description": "Not far from Shanghai, in a country twon stands the palatial home of the Pang family. Old Master Pang is an addict who brings up his beautiful daughter Ruyi on opium smoke. Her older brother, Zhengda, is addicted as well, and then paralysed and effectively brain-dead. Zhongliang, Zhengda's brother-in-law, is a successful gigolo in Shanghai who seduces married older women and then blackmails them. When Older Master Pang dies, the clan elders makes Ruyi to take over the role as the head of the household. Zhongliang returns to the Pang family on the death of Old Master Pang, re-encounters Ruyi, and they are secretly attracted to each other. Wanting to seem sophisticated, she succumbs to Zhongliang's attempts to seduce her. But in the emotional maelstrom that follows - for the angry, jealous and sexually frustrated sister (Zhengda's wife) is also part of the picture..."
+    }
+  },
+  {
+    "id": 13,
+    "name": "Viva Erotica",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MTUzMjMwN15BMl5BanBnXkFtZTgwMTc5NTAyMTE@._V1_.jpg",
+    "project": {
+      "title": "Tung-Shing Yee",
+      "thesis-category": "1996",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4MTUzMjMwN15BMl5BanBnXkFtZTgwMTc5NTAyMTE@._V1_.jpg",
+      "blurb": "Viva Erotica",
+      "description": "A struggling director is offered the opportunity to direct a Cat-III film to revive his career. Torn between artistic integrity and financial troubles, he also has to deal with his jealous girlfriend and a demanding actress, all while keeping his gangster financiers happy."
+    }
+  },
+  {
+    "id": 14,
+    "name": "All's Well, Ends Well",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5OTc5NDMxNF5BMl5BanBnXkFtZTcwNzkwMzgxMQ@@._V1_.jpg",
+    "project": {
+      "title": "Andy Warhol",
+      "thesis-category": "1992",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk5OTc5NDMxNF5BMl5BanBnXkFtZTcwNzkwMzgxMQ@@._V1_.jpg",
+      "blurb": "All's Well, Ends Well",
+      "description": "A romantic Chinese New Year comedy about the three Shang brothers. Eldest brother Shang Moon is a philandering businessman who treats his hideous yet hard-working wife like dirt. Middle brother Shang Foon is a disc jockey/playboy who tries to score with as many girls as possible. Youngest brother Shang So is an obviously gay dance instructor. Moon soon gets the tables turned on him as his wife leaves to become a glamorous karaoke hostess, and Foon gets into a bizarre relationship with a fan so obsessed with movies that she constantly acts out characters on dates, until he suddenly becomes temporarily mentally ill. And So is continually at odds with obvious butch lesbian family cousin. Hilarity ensues."
+    }
+  },
+  {
+    "id": 15,
+    "name": "The Chinese Feast ",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MDE5Nzg4MV5BMl5BanBnXkFtZTcwODA4NzYyMQ@@._V1_.jpg",
+    "project": {
+      "title": " Hark Tsui",
+      "thesis-category": "1995",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM0MDE5Nzg4MV5BMl5BanBnXkFtZTcwODA4NzYyMQ@@._V1_.jpg",
+      "blurb": "The Chinese Feast ",
+      "description": "Kit is a gangster looking to start a new life as a chef in Canada, so he can be closer to his girlfriend. But in his struggle to learn the fine art of cuisine, he runs across a red-headed beauty who will change his plans, and soon finds himself off in search of the retired master who can teach him how to win in the ultimate cooking challenge."
+    }
+  },
+  {
+    "id": 16,
+    "name": "Moonlight Express",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2JmY2I5ZjktNGUwYi00M2Y3LWFkNjMtMGIyOTBmZjQxMjU3XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+    "project": {
+      "title": "Daniel Lee",
+      "thesis-category": "2000",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BY2JmY2I5ZjktNGUwYi00M2Y3LWFkNjMtMGIyOTBmZjQxMjU3XkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+      "blurb": "Moonlight Express",
+      "description": "A Japanese woman named Hitomi who lost her fiancé in a car crash meets a Chinese man named Karbo who looks exactly like him who himself is on the run from the police after being framed."
+      }
+  },
+  {
+    "id": 17,
+    "name": "Lian zhan Chong Cheng",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NDUzMjkzNl5BMl5BanBnXkFtZTcwODk3NzYyMQ@@._V1_.jpg",
+    "project": {
+      "title": " Gordon Chan",
+      "thesis-category": "2000",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NDUzMjkzNl5BMl5BanBnXkFtZTcwODk3NzYyMQ@@._V1_.jpg",
+      "blurb": "Lian zhan Chong Cheng",
+      "description": "One day, Jenny discovers that she doesn't love her boyfriend - a Japanese triad leader - any longer; therefore, she walks away with a bag of money to secure her life. In reality, that bag of money is the triad leader planning to trade in a secret diary with a notorious thug, Kit; however, just to find that the money has gone. In the meantime, Tak is a HK police officer on vacation, and spots Kit in Okinawa. Undercover as a ruffian himself, Tak approaches Kit and would like to arrest him at any given time..."
+      }
+  },
+  {
+    "id": 18,
+    "name": "Yuan fen",
+    "profile-pic": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MDMzNzk0OF5BMl5BanBnXkFtZTgwODI2NDI2NjE@._V1_.jpg",
+    "project": {
+      "title": "Taylor Wong",
+      "thesis-category": "1986",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2MDMzNzk0OF5BMl5BanBnXkFtZTgwODI2NDI2NjE@._V1_.jpg",
+      "blurb": "Yuan fen",
+      "description": "Lesile is a young guy that uses the MTR everyday, and one day, he sees a beautiful lady (Maggie Cheung) on the train and likes her immediately. On the other hand, he also knows a tomboy (Anita Mui) on the train too (and she likes him too!). Then, with side-kicks like Chan and others the chase of love in the MTR system begins."
+
+    }
+  }
+]
